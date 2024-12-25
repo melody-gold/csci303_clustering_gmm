@@ -23,11 +23,11 @@ This Project applies Gaussian Mixture Models (GMM) for clustering and anomaly de
 - `pandas` - Data manipulation, cleaning, and analysis.
 - `numpy` - Mathematical operations and handling arrays.
 - `scikit-learn` - Model building and evaluation.
-- `matplotlib ` - Data visualization.
+- `matplotlib` - Data visualization.
 
 ## Dataset
 - **Name:** Credit Card Fraud Detection Dataset
-- **Source:** Kaggle
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Description:**
     - Contains transactions labeled as fraud (1) or non-fraud (0)
     - Features represent time, transaction amount, and transformed numerical inputs.
