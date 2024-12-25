@@ -20,7 +20,7 @@ This Project applies Gaussian Mixture Models (GMM) for clustering and anomaly de
 **Programming Language:** Python
 
 ### Libraries
-- `pandas` - Data manipulation, cleaning, and anlysis.
+- `pandas` - Data manipulation, cleaning, and analysis.
 - `numpy` - Mathematical operations and handling arrays.
 - `scikit-learn` - Model building and evaluation.
 - `matplotlib ` - Data visualization.
@@ -35,8 +35,8 @@ This Project applies Gaussian Mixture Models (GMM) for clustering and anomaly de
 ## Installation and Usage
 1. Clone this repository:
   ```
-  git clone https://github.com/username/clustering_gmm.git
-  cd clustering_gmm
+  git clone https://github.com/username/csci303_clustering_gmm.git
+  cd csci303_clustering_gmm
   ```
 2. Download the dataset and save it as `creditcard.csv` in the project directory.
 3. Open the `Project - GMMs.ipynb` file.
